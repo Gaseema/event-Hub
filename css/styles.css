@@ -134,3 +134,7 @@ header {
   left: 0;
   top: 0;
 }
+.android .mask {
+  -webkit-transition: none;
+  transition: none;
+}
