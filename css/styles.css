@@ -138,3 +138,6 @@ header {
   -webkit-transition: none;
   transition: none;
 }
+.js-nav-active .mask {
+  visibility: visible;
+  
