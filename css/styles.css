@@ -58,3 +58,7 @@ a:hover {
   -o-user-select: none;
   user-select: none;
 }
+@media screen and (min-width: 50em) {
+  .js .nav-collapse {
+    position: relative;
+  }
