@@ -14,4 +14,4 @@ a:active,
 a:hover {
   outline: 0;
 }
-
+@-webkit-viewport { width: device-width; }
