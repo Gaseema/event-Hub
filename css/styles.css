@@ -83,3 +83,5 @@ body {
   background: #fff;
   font: normal 100%/1.4 sans-serif;
 }
+section {
+  border-bottom: 1px solid #999;
