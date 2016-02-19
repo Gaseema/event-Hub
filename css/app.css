@@ -39,3 +39,8 @@
 .right-text p{
     line-height: 1.6;
 }
+/**************************  Festivals  ************************/
+.festivals img{
+    display: inline-block;
+    float: left
+}
