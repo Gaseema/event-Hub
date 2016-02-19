@@ -170,4 +170,6 @@ header {
      width: auto;
   }
 }
-
+.nav-collapse li {
+  float: left;
+ 
