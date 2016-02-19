@@ -139,5 +139,7 @@ header {
   transition: none;
 }
 .js-nav-active .mask {
-  visibility: visible;
+  visibility: visible
+  opacity: 1;
+}
   
