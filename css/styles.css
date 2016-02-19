@@ -33,3 +33,6 @@ a:hover {
 }
 .nav-collapse li {
   width: 100%;
+  display: block;
+}
+
