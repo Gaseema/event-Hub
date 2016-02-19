@@ -164,3 +164,6 @@ header {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
+@media screen and (min-width: 50em) {
+  .nav-collapse {
+    float: right;
