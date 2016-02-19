@@ -167,3 +167,7 @@ header {
 @media screen and (min-width: 50em) {
   .nav-collapse {
     float: right;
+     width: auto;
+  }
+}
+
