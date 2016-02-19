@@ -62,3 +62,6 @@ a:hover {
   .js .nav-collapse {
     position: relative;
   }
+  .js .nav-collapse.closed {
+    max-height: none;
+  }
