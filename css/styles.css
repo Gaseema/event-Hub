@@ -110,3 +110,4 @@ header {
 .logo {
   -webkit-tap-highlight-color: rgba(0,0,0,0);
   text-decoration: none;
+  font-weight: bold;
