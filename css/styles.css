@@ -88,3 +88,6 @@ section {
   text-align: center;
   width: 100%;
 }
+h1 {
+  margin-bottom: .5em;
+}
