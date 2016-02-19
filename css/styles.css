@@ -148,3 +148,9 @@ header {
     opacity: 0 !important;
   }
     
+/* ------------------------------------------
+  NAVIGATION STYLES
+--------------------------------------------- */
+
+.fixed {
+  position: fixed;
