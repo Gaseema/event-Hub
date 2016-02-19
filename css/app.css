@@ -9,3 +9,6 @@
 }.top-bar, .top-bar ul a{
     color: aliceblue
 }
+.button{
+    border-radius: 30px
+}
