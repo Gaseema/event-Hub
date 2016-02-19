@@ -6,4 +6,6 @@
 }
 .menu-text{
     color: white
+}.top-bar, .top-bar ul a{
+    color: aliceblue
 }
