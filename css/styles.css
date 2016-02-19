@@ -129,3 +129,8 @@ header {
   position: fixed;
   opacity: 0;
   z-index: 2;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  top: 0;
+}
