@@ -180,3 +180,6 @@ header {
     width: auto;
   }
 }
+.nav-collapse a {
+  -webkit-tap-highlight-color: rgba(red);
+  border-top: 1px solid white;
