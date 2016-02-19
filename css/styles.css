@@ -172,4 +172,7 @@ header {
 }
 .nav-collapse li {
   float: left;
+   width: 100%;
+}
+
  
