@@ -43,3 +43,6 @@ a:hover {
   overflow: hidden;
   zoom: 1;
 }
+.nav-collapse.opened {
+  max-height: 9999px;
+}
