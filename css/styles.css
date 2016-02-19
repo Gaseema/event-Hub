@@ -31,3 +31,5 @@ a:hover {
   display: block;
   list-style: none;
 }
+.nav-collapse li {
+  width: 100%;
