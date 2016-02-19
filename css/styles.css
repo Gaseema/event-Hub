@@ -126,3 +126,5 @@ header {
   transition: opacity 300ms;
   background: rgba(0,0,0, .5);
   visibility: hidden;
+  position: fixed;
+  opacity: 0;
