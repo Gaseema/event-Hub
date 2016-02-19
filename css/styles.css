@@ -107,3 +107,6 @@ header {
   left: 0;
   top: 0;
 }
+.logo {
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  text-decoration: none;
