@@ -113,3 +113,5 @@ header {
   font-weight: bold;
   padding: 0 20px;
   color: #fff;
+  float: left;
+}
