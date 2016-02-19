@@ -36,3 +36,6 @@
      border-style:outset;
      border-width: 8px
 }
+.right-text p{
+    line-height: 1.6;
+}
